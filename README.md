@@ -1,7 +1,7 @@
 <h2 align="center">Heyy, This is Chinmay Jain .</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%2FUX%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 <h3 align="left">Back in 2021, tumbled head first into the rabbit hole of coding and web development. Fast-forward to today, and I’ve had the privilege of building softwares and web applications for startups, agencies and businesses.<br>My main focus these days is building realtime practical web applications to solve a problem. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In the rest of the time, I collaborate with startups working over great ideas. <br>I enjoy working on variety of projects that opens up my limitations to learn more and more.</h3>
