@@ -1,3 +1,12 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400" width="1000"/>
+<br>
+<p >
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelancing%20For%201%20year%20&font=Fira%20Code&width=540&height=45&color=4B70C5&pause=1000&size=30" />
+</p>
+<h3 style="font-size: 16px;">✨ Freelancing for 1 year, achieving 90% client satisfaction with on-time, on-budget delivery and exceeding   expectations.</h3>
+<h3 style="font-size: 16px;">✨ Collaborated with freelancers, showcasing strong teamwork and communication skills.</h3>
+<br>
+<hr>
 <h2 align="center">Hi There!, This is Chinmay Jain ✨</h2>
 
 <p align="center">
