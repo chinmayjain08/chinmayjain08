@@ -1,12 +1,12 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelancing%20For%201%20year%20&font=Fira%20Code&width=540&height=45&color=4B70C5&pause=1000&size=30" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelancing%20For%201%20year%20&font=Fira%20Code&width=440&height=35&color=4B70C5&pause=1000&size=24" />
 </p>
 <h4 style="font-size: 16px;">✨ Freelancing for 1 year, achieving 90% client satisfaction with on-time delivery and exceeding expectations.</h3>
 <h4 style="font-size: 16px;">✨ Collaborated with freelancers, showcasing strong teamwork and communication skills.</h3>
 <br>
 <hr>
-<h2 align="center">Hi 👋, I'm Chinmay Jain</h1>
+<h1 align="center">Hi 👋, I'm Chinmay Jain</h1>
 <h4 align="left">Connect with me:</h3>
 
 <p align="left" font-family="Poppins">Back in 2021, tumbled head first into the rabbit hole of coding and web development. Fast-forward to today, and I’ve had the privilege of building softwares and web applications for startups, agencies and businesses.<br>My main focus these days is building realtime practical web applications to solve a problem. I most enjoy building software in the sweet spot where design and engineering meet — things that look good but are also built well under the hood. In the rest of the time, I collaborate with startups working over great ideas. <br>I enjoy working on variety of projects that opens up my limitations to learn more and more.</p>
