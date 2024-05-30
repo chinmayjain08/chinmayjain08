@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Frontend%20Developer;Freelance%20Developer%20&font=Fira%20Code&width=440&height=35&color=4B70C5&pause=1000&size=24" />
 </p>
-<h4 style="font-size: 16px">✨ Freelancing for an year and half now, achieving 90% client satisfaction with on-time delivery and exceeding expectations.</h3>
+<h4 style="font-size: 16px">✨ Freelancing for an year and half, achieving 90% client satisfaction with on-time delivery and exceeding expectations.</h3>
 <h4 style="font-size: 16px">✨ Collaborated with startups and businesses, showcasing strong teamwork and communication skills.</h3>
 <br>
 <hr>
