@@ -62,8 +62,6 @@ class About extends Me {
     "Frontend" : { "React.js", "Next.js", "HTML", "CSS", "Bootstrap", "Tailwind", "MaterialUI" },
     "Backend" : {"Node.js", "Golang", "Express.js", "PHP"},
     "Database" : { "MongoDB", "SQL" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "Windows" },
     "OtherLanguages" : {"Bash", "Json", "Markdown" }
     "OtherTools" : { "Git", "Figma", "Photoshop", "Canva" }
   };
