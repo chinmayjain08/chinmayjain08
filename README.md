@@ -15,7 +15,7 @@
 
 ### Tools and Tech ⚡
 
-<img align="center" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlkaTlyMXQyN3htc2ZnNWtvb2N2NHB3emFoZXNiOHRhdjRyaTB3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
+<img align="center" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlkaTlyMXQyN3htc2ZnNWtvb2N2NHB3emFoZXNiOHRhdjRyaTB3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
